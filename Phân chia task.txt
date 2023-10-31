@@ -1,0 +1,18 @@
+Room
+-	Create room
+-	Edit room
+-	Get list rooms by userId
+-	Get list rooms
+-	Get detail room
+-	Delete room
+-	Get list rooms by locationId
+
+Booking
+-	Get booking
+-	Create booking
+-	Delete booking
+-	Get booking by userId
+
+Image
+-	Upload image
+-	Delete image
